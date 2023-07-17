@@ -11,10 +11,10 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 
-# User-specific stuff
+# gamePackage.User-specific stuff
 .idea/**
 
-# AWS User-specific
+# AWS gamePackage.User-specific
 .idea/**/aws.xml
 
 # Generated files
